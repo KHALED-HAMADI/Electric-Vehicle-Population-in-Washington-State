@@ -1,1 +1,11 @@
-# Electric-Vehicle-Population-in-Washington-State
+- Focus: Washington State's electric vehicle landscape
+- Data source: [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+- Analyzed using PowerBI
+### Findings:
+  - Surge in electric vehicle registrations, ~45,000 in 2023
+  - Tesla dominates market share at 45%
+  - Average electric vehicle battery range exceeds 200 miles
+  - Average base MSRP stands at $57,000
+- Geographic concentration in the northwestern region
+- Visualizations emphasize vehicle distribution and market dominance
+- Suggests the need for future demographic analyses and strategic expansions beyond the region for manufacturers and utility companies
